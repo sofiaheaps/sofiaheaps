@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A Junior Cybersecurity Analyst</h3>
 
--🔭 I’m currently working on SOC tools.
+-🔭 I’m currently focused on SOC tools.
   
 - 🌱 Actively expanding my expertise in **Blue Team** operations.
 
