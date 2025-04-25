@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A Junior Cybersecurity Analyst</h3>
 
+- 🔭 I’m currently working on: **🌱 Actively expanding my expertise in Blue Team operations.**
+
 - 📫 Connect with me **https://linkedin.com/in/sofia-heaps**
 
 <h3 align="left">Connect with me:</h3>
