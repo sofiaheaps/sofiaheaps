@@ -37,3 +37,11 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luboasso&show_icons=true&locale=en&layout=compact" alt="luboasso" /></p>
 <div align="center">
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sofiaheaps/sofiaheaps/output/snake.svg" alt="Snake animation" />
+
+###
