@@ -1,6 +1,32 @@
-<div style="text-align: center;">
-  <img src="https://i.pinimg.com/736x/b6/53/4c/b6534c1932d750d676533f9abca720f0.jpg" alt="Banner (1)" />
-</div>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Image</title>
+    <style>
+        /* Usamos Flexbox para centrar el contenido */
+        body {
+            display: flex;
+            justify-content: center; /* Centrado horizontal */
+            align-items: center;     /* Centrado vertical */
+            height: 100vh;           /* Altura completa de la pantalla */
+            margin: 0;
+            background-color: #f0f0f0; /* Color de fondo suave */
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border: 5px solid #333; /* Puedes quitar el borde si no te gusta */
+        }
+    </style>
+</head>
+<body>
+    <!-- Imagen centrada -->
+    <img src="https://i.pinimg.com/736x/b6/53/4c/b6534c1932d750d676533f9abca720f0.jpg" alt="Banner (1)">
+</body>
+</html>
+
 
 <h1 align="center">Hi, I'm Sofia!</h1>
 <h2 align="center">A Junior Full Cybersecurity Analyst</h2>
