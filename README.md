@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Image</title>
-    <style>
-        /* Usamos Flexbox para centrar el contenido */
-        body {
-            display: flex;
-            justify-content: center; /* Centrado horizontal */
-            align-items: center;     /* Centrado vertical */
-            height: 100vh;           /* Altura completa de la pantalla */
-            margin: 0;
-            background-color: #f0f0f0; /* Color de fondo suave */
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border: 5px solid #333; /* Puedes quitar el borde si no te gusta */
-        }
-    </style>
+
 </head>
 <body>
     <!-- Imagen centrada -->
