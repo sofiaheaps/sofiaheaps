@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A Junior Cybersecurity Analyst</h3>
 
--🔭 I’m currently working on:
+-🔭 I’m currently working on SOC tools.
   
 - 🌱 Actively expanding my expertise in **Blue Team** operations.
-
-- I'm currently learning...
--   SOC tools
 
 - 📄 Recently graduated from The Bridge Digital Talent Accelerator's Full Cybersecurity Bootcamp, transitioning from a resort representative to a well-versed cybersecurity analyst.
 
