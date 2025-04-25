@@ -6,7 +6,7 @@
 <h2 align="center">📫Connect with me:</h2>
 
 <div align: "center">
-  <a href="https://linkedin.com/in/lucianaboasso" target="blank">
+  <a href="https://linkedin.com/in/sofia-heaps" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciana boasso" height="30" width="40" />
   </a>
 </div>
