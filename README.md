@@ -38,10 +38,4 @@
 <div align="center">
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sofiaheaps/sofiaheaps/output/snake.svg" alt="Snake animation" />
-
-###
