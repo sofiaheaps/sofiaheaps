@@ -1,4 +1,4 @@
-![LinkedIn Banner (1)]()
+![LinkedIn Banner (1)](https://media.licdn.com/dms/image/v2/D4D16AQGAc30L8FqSyA/profile-displaybackgroundimage-shrink_350_1400/B4DZZObPRPGwAY-/0/1745072486271?e=1750896000&v=beta&t=D5Z1-vQpTyX8_HpJdfC4-2eDDbAFMHDYqNQUViU8ick)
 <h1 align="center">Hi, I'm Sofia!</h1>
 <h2 align="center">A Junior Full Cybersecurity Analyst</h2>
 - 🔭 I’m currently working on:
