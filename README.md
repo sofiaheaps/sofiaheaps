@@ -1,4 +1,4 @@
-![LinkedIn Banner (1)](https://github.com/Luboasso/Luboasso/assets/69759992/c65882d8-e505-4b46-a900-e4f47436411c)
+![LinkedIn Banner (1)]()
 <h1 align="center">Hi, I'm Sofia!</h1>
 <h2 align="center">A Junior Full Cybersecurity Analyst</h2>
 - 🔭 I’m currently working on:
