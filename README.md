@@ -1,4 +1,5 @@
-![LinkedIn Banner (1)](https://media.licdn.com/dms/image/v2/D4D16AQEZFTXi1Thaxg/profile-displaybackgroundimage-shrink_350_1400/B4DZZudualG0AY-/0/1745610009033?e=1751500800&v=beta&t=QaBqzVG0Jpev5BX5x_EnvFy2RTEuxFkkwwAL3r_ACR8)
+![LinkedIn Banner (1)](https://media.licdn.com/dms/image/v2/D4D16AQEZFTXi1Thaxg/profile-displaybackgroundimage-shrink_350_1400/B4DZZudualG0AY-/0/1745610009033?e=1757548800&v=beta&t=wtSgwJDR_l4NkCB5upNKGlBAeM0uNlprYSz6sqvPP6Q)
+
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A Junior Cybersecurity Analyst</h3>
 
