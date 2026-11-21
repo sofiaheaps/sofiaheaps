@@ -7,9 +7,8 @@
   
 - 🌱 Actively expanding my expertise in **Blue Team** operations.
 
-- 📄 Recently graduated from The Bridge Digital Talent Accelerator's Cybersecurity Bootcamp, transitioning from a resort representative to a well-versed cybersecurity analyst.
+- 📄 Graduated from The Bridge Digital Talent Accelerator's Cybersecurity Bootcamp.
 
-- ✉️ Don't hesitate to reach out at sofiaheaps05@gmail.com.
 
 <h2 align="center">📫Connect with me:</h2>
 
