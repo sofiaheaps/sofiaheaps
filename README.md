@@ -1,12 +1,51 @@
 
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
-<h3 align="center">A Junior Cybersecurity Analyst</h3>
+<h3 align="center">🛡️ CSIRT Analyst | Blue Team | Incident Response | Detection Engineering</h3>
 
--🔭 I’m currently focused on SOC tools.
+I'm a Cybersecurity Analyst working in incident response and defensive security. I'm passionate about threat detection, security monitoring and improving incident response capabilities through hands-on projects and continuous learning.
+<br><br>
+
+🔭 **Areas of Interest & Expertise**
+
+- 🛡️ Incident Response and Security Operations.
+
+- 📊 SIEM monitoring and threat detection.
+
+- 🔍 Detection Engineering and custom detection rules.
+
+- 🎯 MITRE ATT&CK framework and threat analysis.
+
+<br>
+
+🛠️ **Technologies & Tools**
+
+
+**SIEM & Security Monitoring:**
+
+- Wazuh
+
+- ELK
+  <br>
+
+**Endpoint Monitoring:**
+
+- Sysmon
+
+- Windows Event Logs 
+
+- Tanium
   
-- 🌱 Actively expanding my expertise in **Blue Team** operations.
+<br>
 
-- 📄 Graduated from The Bridge Digital Talent Accelerator's Cybersecurity Bootcamp.
+**Threat Simulation & Detection:**
+
+- Atomic Red Team
+
+- Hydra
+
+- Burp Suite
+
+- MITRE ATT&CK
 
 
 <h2 align="center">📫Connect with me:</h2>
