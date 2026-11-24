@@ -5,7 +5,7 @@
 I'm a Cybersecurity Analyst working in incident response and defensive security. I'm passionate about threat detection, security monitoring and improving incident response capabilities through hands-on projects and continuous learning.
 <br><br>
 
-🔭 **Areas of Interest & Expertise**
+<h3>🔭 Areas of Interest & Expertise</h3>
 
 - 🛡️ Incident Response and Security Operations.
 
@@ -14,10 +14,9 @@ I'm a Cybersecurity Analyst working in incident response and defensive security.
 - 🔍 Detection Engineering and custom detection rules.
 
 - 🎯 MITRE ATT&CK framework and threat analysis.
-
 <br>
 
-🛠️ **Technologies & Tools**
+<h3>🛠️ Technologies & Tools</h3>
 
 
 **SIEM & Security Monitoring:**
